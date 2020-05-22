@@ -1,4 +1,6 @@
 # bugStore
-bug存储库
-根据大家都熟悉的教程，基于vue2.9.6开发的移动端音乐webAPP
-目前可用，演示地址：haoyongyun.yingbing.top:9000
+bug存储库；
+根据大家都熟悉的教程，基于vue2.9.6开发的移动端音乐webAPP；
+目前可用，演示地址：haoyongyun.yingbing.top:9000；
+有热门音乐，歌手列表，搜索音乐和歌手，以及最重要的播放音乐功能；
+可播放歌词，添加喜爱的音乐，播放历史记录
